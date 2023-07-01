@@ -2,6 +2,8 @@
 
 
 my 3 assignments and my sentiment analysis project
+Abhay Anand Vatsa
+abhay.anand2020@vitbhopal.ac.in
 
 
 
